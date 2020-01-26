@@ -860,22 +860,22 @@ def clBot(op):
                             cl.acceptGrouoInvitation(op.param1)
                         except:
                             try:
-                                G = k1.getGroup(op.param1)
                                 kc.kickoutFromGroup(op.param1,[op.param2])
-                                G.preventedJoinByTicket = False
-                                k1.updateGroup(G)
-                                Ti = k1.reissueGroupTicket(op.param1)
-                                cl.acceptGroupInvitationByTicket(op.param1,Ti)
-                                ki.acceptGroupInvitationByTicket(op.param1,Ti)
-                                kk.acceptGroupInvitationByTicket(op.param1,Ti)
-                                kc.acceptGroupInvitationByTicket(op.param1,Ti)
-                                k1.acceptGroupInvitationByTicket(op.param1,Ti)
-                                k2.acceptGroupInvitationByTicket(op.param1,Ti)
-                                k3.acceptGroupInvitationByTicket(op.param1,Ti)
-                                G.preventedJoinByTicket = True
-                                ki.updateGroup(G)
+                                k1.inviteIntoGroup(op.param1,[op.param3])
+                                cl.acceptGrouoInvitation(op.param1)
                             except:
-                                pass
+                                try:
+                                    k1.kickoutFromGroup(op.param1,[op.param2])
+                                    k2.inviteIntoGroup(op.param1,[op.param3])
+                                    cl.acceptGrouoInvitation(op.param1)
+                                 except:
+                                     try:
+                                         k3.kickoutFromGroup(op.param1,[op.param2])
+                                         ki.inviteIntoGroup(op.param1,[op.param3])
+                                         cl.acceptGrouoInvitation(op.param1)
+                                     except:
+                                         pass
+
         if op.type == 19:
             if op.param3 in hun["botteam"]:
                 if op.param2 in admin:
@@ -924,7 +924,7 @@ def clBot(op):
                     try:
                         k3.kickoutFromGroup(op.param1,[op.param2])
                         ki.findAndAddContactsByMid(op.param3)
-                        ki.inviteIntoGroup(op.param1, 
+                        ki.inviteIntoGroup(op.param1, hun["botteam"])
                     except:
                         pass
 
@@ -958,7 +958,7 @@ def clBot(op):
                     try:
                         ki.kickoutFromGroup(op.param1,[op.param2])
                         kk.findAndAddContactsByMid(op.param3)
-                        kk.inviteIntoGroup(op.param1,[op.param3
+                        kk.inviteIntoGroup(op.param1, hun["botteam"])
                     except:
                         pass
 
@@ -992,7 +992,7 @@ def clBot(op):
                     try:
                         kk.kickoutFromGroup(op.param1,[op.param2])
                         kc.findAndAddContactsByMid(op.param3)
-                        kc.inviteIntoGroup(op.param1, hun["botteam"]:
+                        kc.inviteIntoGroup(op.param1, hun["botteam"])
                     except:
                         pass
 
@@ -1026,7 +1026,7 @@ def clBot(op):
                     try:
                         kc.kickoutFromGroup(op.param1,[op.param2])
                         k1.findAndAddContactsByMid(op.param3)
-                        k1.inviteIntoGroup(op.param1,[op.param3]
+                        k1.inviteIntoGroup(op.param1, hun["botteam"])
                     except:
                         pass
 
@@ -1060,7 +1060,7 @@ def clBot(op):
                     try:
                         k1.kickoutFromGroup(op.param1,[op.param2])
                         k2.findAndAddContactsByMid(op.param3)
-                        k2.inviteIntoGroup(op.param1,[op.param3])
+                        k2.inviteIntoGroup(op.param1, hun["botteam"])
                     except:
                         pass
 
@@ -1080,6 +1080,19 @@ def clBot(op):
                     except:
                         pass
 
+        if op.type == 11:
+            if cl.getGroup(op.param1).G.preventedJoinByTicket = False
+                if op.param2 not in hun[botteam] and op.param2 not in admin:
+                    Ti = cl.reissueGroupTicket(op.param1)
+                    cl.acceptGroupInvitationByTicket(op.param1,Ti)
+                    ki.acceptGroupInvitationByTicket(op.param1,Ti)
+                    kk.acceptGroupInvitationByTicket(op.param1,Ti)
+                    kc.acceptGroupInvitationByTicket(op.param1,Ti)
+                    k1.acceptGroupInvitationByTicket(op.param1,Ti)
+                    k2.acceptGroupInvitationByTicket(op.param1,Ti)
+                    k3.acceptGroupInvitationByTicket(op.param1,Ti)
+                    except:
+                        pass
 
         if op.type == 24:
             print ("[ 24 ] NOTIFIED LEAVE ROOM")

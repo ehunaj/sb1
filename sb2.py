@@ -9,7 +9,30 @@ from humanfriendly import format_timespan, format_size, format_number, format_le
 import time, random, sys, json, codecs, threading, glob, re, string, os, requests, subprocess, six, ast, pytz, urllib, urllib.parse
 from gtts import gTTS
 from googletrans import Translator
+
+from thrift.transport import TTransport,TSocket,THttpClient,TTransport,TZlibTransport
+from thrift.protocol import TCompactProtocol,TMultiplexedProtocol,TProtocol
+from thrift.server import THttpServer,TServer,TProcessPoolServer
+from linepy import *
+from akad.ttypes import *
+from multiprocessing import Pool, Process
+from time import sleep
+from humanfriendly import format_timespan, format_size, format_number, format_length
+import pytz, datetime, pafy, time, timeit, random, sys, ast, re, os, json, subprocess, threading, string, codecs, requests, tweepy, ctypes, urllib, wikipedia
+from datetime import timedelta, date
+from datetime import datetime
+from urllib.parse import quote
+from bs4 import BeautifulSoup
+import youtube_dl
+from zalgo_text import zalgo
+from threading import Thread,Event
+import wikipedia as wiki
+requests.packages.urllib3.disable_warnings()
+from ttypes import LoginRequest
+import json, requests, LineService
+from thrift.transport import THttpClient
 botStart = time.time()
+
 cl = LINE("EMBsWALkcN5b9eFACvZ4.BvIR7Jw9VfAdsJzU/uMhba.0B0gmjifbNpXr64iuuaP3WfDuDcDMsGNI5JPgtUDJVc=")
 ki = LINE("EMtrt7ARXnC3xEk8Ucq4.wOkmirNWe41AVCDdjgw/za.A1FVNahoA+6huK6SgkY1RPm0OME079ykEnVFZC5BPYg=")
 kk = LINE("EMBf7j3JuEw9g1lNx0Qe.pYxjKbe7w+1iIyyJvihN7G.b8RYl5BL8w2UxuqYXKvOfbffVmXDArhXDRMi7YUwDZw=")
@@ -17,7 +40,7 @@ kc = LINE("EMeJYAVgrLiRHIkxibac.xmOZkKoDi9P/nYUM4NOsla.hwTymmBJr4fixtVoC8NVwIudz
 k1 = LINE("EMwUjryeKhXe5WiOI1Ud.PVmbdG5nG77Km5hrSxbgtq.2tACTY0iXYW3UZ+v58SZVe77FePSFzAT2fXlMJJVQ5g=")
 k2 = LINE("EMrr6NeeIq0ZbJSKbfde.NzWU4uHxu25IbVF0crqixG.gOLUcTKx5UMefU2voyNpABjLHx8gHA6nhXjsa4fbmD8=")
 k3 = LINE("EM5mVyaw71y6pJU6UPD9.p6BZ50ZbaAbHQXlkeO8fkq./7AOtEIfFViAp2AT6zTTKSghszjeZ15k4u32NAd20J8=")
-
+print('SUCCESS'
 readOpen = codecs.open("read.json","r","utf-8")
 settingsOpen = codecs.open("temp.json","r","utf-8")
 

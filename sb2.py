@@ -40,7 +40,7 @@ kc = LINE("EMeJYAVgrLiRHIkxibac.xmOZkKoDi9P/nYUM4NOsla.hwTymmBJr4fixtVoC8NVwIudz
 k1 = LINE("EMwUjryeKhXe5WiOI1Ud.PVmbdG5nG77Km5hrSxbgtq.2tACTY0iXYW3UZ+v58SZVe77FePSFzAT2fXlMJJVQ5g=")
 k2 = LINE("EMrr6NeeIq0ZbJSKbfde.NzWU4uHxu25IbVF0crqixG.gOLUcTKx5UMefU2voyNpABjLHx8gHA6nhXjsa4fbmD8=")
 k3 = LINE("EM5mVyaw71y6pJU6UPD9.p6BZ50ZbaAbHQXlkeO8fkq./7AOtEIfFViAp2AT6zTTKSghszjeZ15k4u32NAd20J8=")
-print('SUCCESS'
+print('SUCCESS')
 readOpen = codecs.open("read.json","r","utf-8")
 settingsOpen = codecs.open("temp.json","r","utf-8")
 
@@ -1355,6 +1355,43 @@ def clBot(op):
                               except:
                                   pass
 
+                
+                    elif ("Addbot " in msg.text):
+                      if msg._from in admin:
+                          key = eval(msg.contentMetadata["MENTION"])
+                          key["MENTIONEES"][0]["M"]
+                          targets = []
+                          for x in key["MENTIONEES"]:
+                              targets.append(x["M"])
+                          for target in targets:
+                              if target in hun["botteam"]:
+                                  cl.sendMessage(to," team bost")
+                              else:
+                                  try:
+                                      hun["botteam"][target] = True
+                                      with open('hun.json','w') as fp:
+                                          json.dump(hun, fp, sort_keys=True, indent=4)
+                                      cl.sendMessage(to," team bost")
+                                  except:
+                                      pass
+                    elif ("Delbot " in msg.text):
+                      if msg._from in admin:
+                          key = eval(msg.contentMetadata["MENTION"])
+                          key["MENTIONEES"][0]["M"]
+                          targets = []
+                          for x in key["MENTIONEES"]:
+                              targets.append(x["M"])
+                          for target in targets:
+                              if target not in hun["botteam"]:
+                                  cl.sendMessage(to,"Delist team bost")
+                              else:
+                                  try:
+                                      hun["botteam"].remove[target]
+                                      with open('hun.json','w') as fp:
+                                          json.dump(hun, fp, sort_keys=True, indent=4)
+                                      cl.sendMessage(to,"Delist team bost")
+                                  except:
+                                      pass
                 elif text.lower() == 'banlist':
                   if msg._from in admin:
                     if wait["Bot"] == True:

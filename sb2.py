@@ -100,6 +100,7 @@ wait = {
 settings = {
     "changePicture":[],
     "autoAdd": False,
+    "qr":True,
     "autoJoin": False,
     "autoJoinTicket":True,
     "autoLeave": False,
@@ -1081,7 +1082,8 @@ def clBot(op):
                         pass
 
         if op.type == 11:
-            if cl.getGroup(op.param1).G.preventedJoinByTicket = False
+            if settings["qr"] ==True:
+                G = cl.getGroup(op.param1).preventedJoinByTicket = False
                 if op.param2 not in hun[botteam] and op.param2 not in admin:
                     Ti = cl.reissueGroupTicket(op.param1)
                     cl.acceptGroupInvitationByTicket(op.param1,Ti)

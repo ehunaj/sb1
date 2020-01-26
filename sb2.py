@@ -160,11 +160,16 @@ cctv = {
     "sidermem":{}
 }
 bl = {
-     "blacklist":{}
+    "blacklist":{}
 }
+hun = {
+    "botteam:{}
+     }
 
 with open('bl.json', 'r') as fp:
     bl = json.load(fp)
+with open(hun.json', 'r') as fp:
+    hun = json.load(fp)
 
 myProfile["displayName"] = cl.Profile.displayName
 myProfile["statusMessage"] = cl.Profile.statusMessage
@@ -376,7 +381,7 @@ def clBot(op):
     global ast
     global groupParam
     try:
-        if op.type == 0:
+        if op.type == 0 or op.type == 50:
             print ("[ 0 ] END OF OPERATION")
             return
         if op.type == 55:
@@ -711,7 +716,7 @@ def clBot(op):
 
 
         if op.type == 13:
-            if op.param3 in bl['blacklist']:
+            if op.param3 in bl['blacklist'] and op.param2 in bl["blacklist"] and op.param2 not in hun["botteam"] and op.param2 not in admin:
                 try:
                     k3.cancelGroupInvitation(op.param1,[op.param3])
                     k3.kickoutFromGroup(op.param1,[op.param2])
@@ -739,7 +744,7 @@ def clBot(op):
                                         pass
 
         if op.type == 32:
-            if op.param3 in Bots:
+            if op.param3 in hun["botteam"]:
                 if op.param2 in admin:
                     pass
                 if op.param2 in Bots:
@@ -773,7 +778,7 @@ def clBot(op):
             if op.param3 in admin:
                 if op.param2 in admin:
                     pass
-                if op.param2 in Bots:
+                if op.param2 in hun["botteam"]:
                     pass
                 else:
                     bl['blacklist'][op.param2] = True
@@ -805,7 +810,7 @@ def clBot(op):
             if op.param3 in admin:
                 if op.param2 in admin:
                     pass
-                if op.param2 in Bots:
+                if op.param2 in hun["botteam"]:
                     pass
                 else:
                     bl['blacklist'][op.param2] = True
@@ -838,7 +843,7 @@ def clBot(op):
             if op.param3 in mid:
                 if op.param2 in admin:
                     pass
-                if op.param2 in Bots:
+                if op.param2 in hun["botteam"]:
                     pass
                 else:
                     bl['blacklist'][op.param2] = True
@@ -872,13 +877,13 @@ def clBot(op):
                             except:
                                 pass
         if op.type == 19:
-            if op.param3 in Amid:
+            if op.param3 in hun["botteam"]:
                 if op.param2 in admin:
                     pass
-                if op.param2 in Bots:
+                if op.param2 in hun["botteam"]:
                     pass
                 else:
-                    #sendMention(op.param1, op.param2, "", " \nJangan main kick boss")
+                    sendMention(op.param1, op.param2, "", " \nJangan main kick boss")
                     bl['blacklist'][op.param2] = True
                     with open('bl.json', 'w') as fp:
                         json.dump(bl, fp, sort_keys=True, indent=4)
@@ -911,13 +916,13 @@ def clBot(op):
                                 pass
 
         if op.type == 19:
-            if op.param3 in Bmid:
+            if op.param3 in hun["botteam"]:
                 if op.param2 in admin:
                     pass
-                if op.param2 in Bots:
+                if op.param2 in hun["botteam"]:
                     pass
                 else:
-                    #sendMention(op.param1, op.param2, "", " \nJangan main kick boss")
+                    sendMention(op.param1, op.param2, "", " \nJangan main kick boss")
                     bl['blacklist'][op.param2] = True
                     with open('bl.json', 'w') as fp:
                         json.dump(bl, fp, sort_keys=True, indent=4)
@@ -950,10 +955,10 @@ def clBot(op):
                                 pass
 
         if op.type == 19:
-            if op.param3 in Cmid:
+            if op.param3 in hun["botteam"]:
                 if op.param2 in admin:
                     pass
-                if op.param2 in Bots:
+                if op.param2 in hun["botteam"]:
                     pass
                 else:
                     #sendMention(op.param1, op.param2, "", " \nJangan main kick boss")
@@ -989,13 +994,13 @@ def clBot(op):
                                 pass
 #==================-=-----=-=-------------
         if op.type == 19:
-            if op.param3 in Dmid:
+            if op.param3 in hun["botteam"]:
                 if op.param2 in admin:
                     pass
-                if op.param2 in Bots:
+                if op.param2 in hun["botteam"]:
                     pass
                 else:
-                    #sendMention(op.param1, op.pa>
+                    sendMention(op.param1, op.pa>
                     bl['blacklist'][op.param2] = True
                     with open('bl.json', 'w') as fp:
                         json.dump(bl, fp, sort_keys=True, indent=4)
@@ -1028,13 +1033,13 @@ def clBot(op):
                                 pass
 
         if op.type == 19:
-            if op.param3 in Emid:
+            if op.param3 in hun["botteam"]:
                 if op.param2 in admin:
                     pass
-                if op.param2 in Bots:
+                if op.param2 in hun["botteam"]:
                     pass
                 else:
-                    #sendMention(op.param1, op.pa>
+                    sendMention(op.param1, op.pa>
                     bl['blacklist'][op.param2] = True
                     with open('bl.json', 'w') as fp:
                         json.dump(bl, fp, sort_keys=True, indent=4)
@@ -1067,13 +1072,13 @@ def clBot(op):
                                 pass
 
         if op.type == 19:
-            if op.param3 in Fmid:
+            if op.param3 in hun["botteam"]:
                 if op.param2 in admin:
                     pass
-                if op.param2 in Bots:
+                if op.param2 in hun["botteam"]:
                     pass
                 else:
-                    #sendMention(op.param1, op.pa>
+                    sendMention(op.param1, op.pa>
                     bl['blacklist'][op.param2] = True
                     with open('bl.json', 'w') as fp:
                         json.dump(bl, fp, sort_keys=True, indent=4)

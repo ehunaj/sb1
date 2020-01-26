@@ -164,12 +164,12 @@ bl = {
     "blacklist":{}
 }
 hun = {
-    "botteam:{}
+    "botteam":{}
      }
 
 with open('bl.json', 'r') as fp:
     bl = json.load(fp)
-with open(hun.json', 'r') as fp:
+with open('hun.json', 'r') as fp:
     hun = json.load(fp)
 
 myProfile["displayName"] = cl.Profile.displayName
@@ -869,13 +869,13 @@ def clBot(op):
                                     k1.kickoutFromGroup(op.param1,[op.param2])
                                     k2.inviteIntoGroup(op.param1,[op.param3])
                                     cl.acceptGrouoInvitation(op.param1)
-                                 except:
-                                     try:
-                                         k3.kickoutFromGroup(op.param1,[op.param2])
-                                         ki.inviteIntoGroup(op.param1,[op.param3])
-                                         cl.acceptGrouoInvitation(op.param1)
-                                     except:
-                                         pass
+                                except:
+                                    try:
+                                        k3.kickoutFromGroup(op.param1,[op.param2])
+                                        ki.inviteIntoGroup(op.param1,[op.param3])
+                                        cl.acceptGrouoInvitation(op.param1)
+                                    except:
+                                        pass
 
         if op.type == 19:
             if op.param3 in hun["botteam"]:
@@ -908,8 +908,7 @@ def clBot(op):
                     k3.acceptGroupInvitationByTicket(op.param1,Ti)
                     G.preventedJoinByTicket = True
                     k3.updateGroup(G)
-                    except:
-                        pass
+                    pass
 
         if op.type == 19:
             if op.param3 in hun["botteam"]:
@@ -942,8 +941,7 @@ def clBot(op):
                     k3.acceptGroupInvitationByTicket(op.param1,Ti)
                     G.preventedJoinByTicket = True
                     ki.updateGroup(G)
-                    except:
-                        pass
+                    pass
 
         if op.type == 19:
             if op.param3 in hun["botteam"]:
@@ -976,9 +974,7 @@ def clBot(op):
                     k3.acceptGroupInvitationByTicket(op.param1,Ti)
                     G.preventedJoinByTicket = True
                     kk.updateGroup(G)
-                    except:
-                        pass
-#==================-=-----=-=-------------
+                    pass
         if op.type == 19:
             if op.param3 in hun["botteam"]:
                 if op.param2 in admin:
@@ -1010,8 +1006,7 @@ def clBot(op):
                     k3.acceptGroupInvitationByTicket(op.param1,Ti)
                     G.preventedJoinByTicket = True
                     kc.updateGroup(G)
-                    except:
-                        pass
+                    pass
 
         if op.type == 19:
             if op.param3 in hun["botteam"]:
@@ -1044,8 +1039,7 @@ def clBot(op):
                     k3.acceptGroupInvitationByTicket(op.param1,Ti)
                     G.preventedJoinByTicket = True
                     k1.updateGroup(G)
-                    except:
-                        pass
+                    pass
 
         if op.type == 19:
             if op.param3 in hun["botteam"]:
@@ -1078,8 +1072,7 @@ def clBot(op):
                     k3.acceptGroupInvitationByTicket(op.param1,Ti)
                     G.preventedJoinByTicket = True
                     k2.updateGroup(G)
-                    except:
-                        pass
+                    pass
 
         if op.type == 11:
             if settings["qr"] ==True:
@@ -1093,8 +1086,7 @@ def clBot(op):
                     k1.acceptGroupInvitationByTicket(op.param1,Ti)
                     k2.acceptGroupInvitationByTicket(op.param1,Ti)
                     k3.acceptGroupInvitationByTicket(op.param1,Ti)
-                    except:
-                        pass
+                    pass
 
         if op.type == 24:
             print ("[ 24 ] NOTIFIED LEAVE ROOM")
@@ -1376,7 +1368,7 @@ def clBot(op):
                                   cl.sendMessage(to,"Delist team bost")
                               else:
                                   try:
-                                      hun["botteam"].remove[target]
+                                      del hun["botteam"][target]
                                       with open('hun.json','w') as fp:
                                           json.dump(hun, fp, sort_keys=True, indent=4)
                                       cl.sendMessage(to,"Delist team bost")

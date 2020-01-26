@@ -56,14 +56,2227 @@
 [<module 'time' (built-in)>] 'data'
 [<module 'time' (built-in)>] 'data'
 [<module 'time' (built-in)>] 'changePicture'
-[<module 'time' (built-in)>] 'LINE' object has no attribute 'postTemplate'
-[<module 'time' (built-in)>] 'LINE' object has no attribute 'postTemplate'
-[<module 'time' (built-in)>] 'LINE' object has no attribute 'postTemplate'
-[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendTemplates'
-[<module 'time' (built-in)>] 'LINE' object has no attribute 'postTemplate'
-[<module 'time' (built-in)>] 'LINE' object has no attribute 'postTemplate'
-[<module 'time' (built-in)>] 'LINE' object has no attribute 'postTemplate'
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] [Errno 103] Software caused connection abort
+[<module 'time' (built-in)>] [Errno 101] Network is unreachable
 [<module 'time' (built-in)>] name 'wait' is not defined
-[<module 'time' (built-in)>] local variable 'mentionMembers' referenced before assignment
-[<module 'time' (built-in)>] local variable 'mentionMembers' referenced before assignment
-[<module 'time' (built-in)>] Expecting value: line 1 column 1 (char 0)
+[<module 'time' (built-in)>] name 'wait' is not defined
+[<module 'time' (built-in)>] name 'wait' is not defined
+[<module 'time' (built-in)>] name 'wait' is not defined
+[<module 'time' (built-in)>] name 'wait' is not defined
+[<module 'time' (built-in)>] name 'wait' is not defined
+[<module 'time' (built-in)>] name 'wait' is not defined
+[<module 'time' (built-in)>] name 'wait' is not defined
+[<module 'time' (built-in)>] name 'wait' is not defined
+[<module 'time' (built-in)>] name 'wait' is not defined
+[<module 'time' (built-in)>] name 'wait' is not defined
+[<module 'time' (built-in)>] name 'wait' is not defined
+[<module 'time' (built-in)>] name 'wait' is not defined
+[<module 'time' (built-in)>] name 'wait' is not defined
+[<module 'time' (built-in)>] name 'wait' is not defined
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] sendMention() takes 4 positional arguments but 5 were given
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] sendMention() takes 4 positional arguments but 5 were given
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] name 'clMid' is not defined
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: ca00cb202e54524eae118123421d2dca1', parameterMap={'2': 'ca00cb202e54524eae118123421d2dca1'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: ca00cb202e54524eae118123421d2dca1', parameterMap={'2': 'ca00cb202e54524eae118123421d2dca1'})
+[<module 'time' (built-in)>] 'blacklist'
+[<module 'time' (built-in)>] 'blacklist'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] local variable 'mc' referenced before assignment
+[<module 'time' (built-in)>] local variable 'mcs' referenced before assignment
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] local variable 'mcs' referenced before assignment
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c9791ba5329b7516de0c0b59e6cb39eed', parameterMap={'2': 'c9791ba5329b7516de0c0b59e6cb39eed'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] name 'backup' is not defined
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c9791ba5329b7516de0c0b59e6cb39eed', parameterMap={'2': 'c9791ba5329b7516de0c0b59e6cb39eed'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] name 'mulai' is not defined
+[<module 'time' (built-in)>] name 'mulai' is not defined
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] 'blaklist'
+[<module 'time' (built-in)>] 'blaklist'
+[<module 'time' (built-in)>] 'blaklist'
+[<module 'time' (built-in)>] 'blaklist'
+[<module 'time' (built-in)>] 'blaklist'
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'ki' is not defined
+[<module 'time' (built-in)>] name 'ki' is not defined
+[<module 'time' (built-in)>] name 'ki' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'ki' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] 'blaklist'
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] 'blaklist'
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] 'blaklist'
+[<module 'time' (built-in)>] 'blaklist'
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] 'blaklist'
+[<module 'time' (built-in)>] 'blaklist'
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] 'blaklist'
+[<module 'time' (built-in)>] 'blaklist'
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] 'blaklist'
+[<module 'time' (built-in)>] 'blaklist'
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] 'blaklist'
+[<module 'time' (built-in)>] 'blaklist'
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] 'blaklist'
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] 'blaklist'
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] string indices must be integers
+[<module 'time' (built-in)>] 'list' object has no attribute 'name'
+[<module 'time' (built-in)>] 'list' object has no attribute 'name'
+[<module 'time' (built-in)>] 'list' object has no attribute 'name'
+[<module 'time' (built-in)>] 'blacklist'
+[<module 'time' (built-in)>] local variable 'targets' referenced before assignment
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] 'autoJoinTicket'
+[<module 'time' (built-in)>] local variable 'targets' referenced before assignment
+[<module 'time' (built-in)>] 'blacklist'
+[<module 'time' (built-in)>] 'blacklist'
+[<module 'time' (built-in)>] 'list' object has no attribute 'name'
+[<module 'time' (built-in)>] 'blaklist'
+[<module 'time' (built-in)>] 'blaklist'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'inviteIntoGrouo'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'cancelGroupInvitaion'
+[<module 'time' (built-in)>] TalkException(code=0, reason='targetUserIds is empty', parameterMap=None)
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] TalkException(code=0, reason='targetUserIds is empty', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='targetUserIds is empty', parameterMap=None)
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] name 'clMID' is not defined
+[<module 'time' (built-in)>] name 'clMID' is not defined
+[<module 'time' (built-in)>] name 'clMID' is not defined
+[<module 'time' (built-in)>] name 'clMID' is not defined
+[<module 'time' (built-in)>] name 'clMID' is not defined
+[<module 'time' (built-in)>] name 'clMID' is not defined
+[<module 'time' (built-in)>] name 'clMID' is not defined
+[<module 'time' (built-in)>] name 'clMID' is not defined
+[<module 'time' (built-in)>] name 'clMID' is not defined
+[<module 'time' (built-in)>] name 'clMID' is not defined
+[<module 'time' (built-in)>] name 'clMID' is not defined
+[<module 'time' (built-in)>] name 'clMID' is not defined
+[<module 'time' (built-in)>] name 'clMID' is not defined
+[<module 'time' (built-in)>] name 'clMID' is not defined
+[<module 'time' (built-in)>] name 'clMID' is not defined
+[<module 'time' (built-in)>] name 'clMID' is not defined
+[<module 'time' (built-in)>] name 'clMID' is not defined
+[<module 'time' (built-in)>] name 'clMID' is not defined
+[<module 'time' (built-in)>] name 'clMID' is not defined
+[<module 'time' (built-in)>] name 'clMID' is not defined
+[<module 'time' (built-in)>] name 'clMID' is not defined
+[<module 'time' (built-in)>] name 'clMID' is not defined
+[<module 'time' (built-in)>] name 'clMID' is not defined
+[<module 'time' (built-in)>] name 'clMID' is not defined
+[<module 'time' (built-in)>] name 'clMID' is not defined
+[<module 'time' (built-in)>] name 'clMID' is not defined
+[<module 'time' (built-in)>] name 'clMID' is not defined
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c5762cc8e3fa494f344902f066a52ee89', parameterMap={'2': 'c5762cc8e3fa494f344902f066a52ee89'})
+[<module 'time' (built-in)>] TalkException(code=73, reason='Prevented join by ticket: 1395645656, 701038947', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=73, reason='Prevented join by ticket: 1395645656, 873276691', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=73, reason='Prevented join by ticket: 1395645656, 873276691', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=73, reason='Prevented join by ticket: 1395645656, 873276691', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=73, reason='Prevented join by ticket: 1395645656, 873276691', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=73, reason='Prevented join by ticket: 1395645656, 873276691', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=73, reason='Prevented join by ticket: 1395645656, 873276691', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=73, reason='Prevented join by ticket: 1395645656, 873276691', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=73, reason='Prevented join by ticket: 1395645656, 873276691', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=73, reason='Prevented join by ticket: 1395645656, 873276691', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=73, reason='Prevented join by ticket: 1395645656, 873276691', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=73, reason='Prevented join by ticket: 1395645656, 873276691', parameterMap=None)
+[<module 'time' (built-in)>] local variable 'group' referenced before assignment
+[<module 'time' (built-in)>] local variable 'group' referenced before assignment
+[<module 'time' (built-in)>] TalkException(code=73, reason='Prevented join by ticket: 1395645656, 625474028', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c5762cc8e3fa494f344902f066a52ee89', parameterMap={'2': 'c5762cc8e3fa494f344902f066a52ee89'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] TalkException(code=73, reason='Prevented join by ticket: 1574018973, 625474028', parameterMap=None)
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] TalkException(code=73, reason='Prevented join by ticket: 1574018973, 625474028', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'keyCommand'
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] name 'kksendMessage' is not defined
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] name 'kksendMessage' is not defined
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] name 'kksendMessage' is not defined
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] TalkException(code=0, reason='Invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] name 'kksendMessage' is not defined
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'NoneType' object is not iterable
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] name 'clMID' is not defined
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] name 'clMID' is not defined
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] name 'clMID' is not defined
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] 'NoneType' object is not iterable
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=0, reason='targetUserIds is empty', parameterMap=None)
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'str' object has no attribute 'startsith'
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] TalkException(code=0, reason='can not send to myself', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=73, reason='Prevented join by ticket: 1574018973, 625474028', parameterMap=None)
+[<module 'time' (built-in)>] 'keyCommand'
+[<module 'time' (built-in)>] local variable 'ticket' referenced before assignment
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] TalkException(code=0, reason='targetUserIds is empty', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='targetUserIds is empty', parameterMap=None)
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] TalkException(code=0, reason='targetUserIds is empty', parameterMap=None)
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] ('Connection aborted.', ConnectionAbortedError(103, 'Software caused connection abort'))
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] name 'mesg' is not defined
+[<module 'time' (built-in)>] name 'mesg' is not defined
+[<module 'time' (built-in)>] name 'mesg' is not defined
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] name 'mesg' is not defined
+[<module 'time' (built-in)>] name 'mesg' is not defined
+[<module 'time' (built-in)>] name 'mesg' is not defined
+[<module 'time' (built-in)>] name 'mesg' is not defined
+[<module 'time' (built-in)>] name 'mesg' is not defined
+[<module 'time' (built-in)>] name 'mesg' is not defined
+[<module 'time' (built-in)>] name 'mesg' is not defined
+[<module 'time' (built-in)>] name 'mesg' is not defined
+[<module 'time' (built-in)>] name 'mesg' is not defined
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'acceptGroupInvitaion'
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not dict
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] TalkException(code=0, reason='Invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] TalkException(code=0, reason='text is null', parameterMap=None)
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: ca00cb202e54524eae118123421d2dca1', parameterMap={'2': 'ca00cb202e54524eae118123421d2dca1'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: ca00cb202e54524eae118123421d2dca1', parameterMap={'2': 'ca00cb202e54524eae118123421d2dca1'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: ca00cb202e54524eae118123421d2dca1', parameterMap={'2': 'ca00cb202e54524eae118123421d2dca1'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c041f2eb94156e7e6be5b93d4db01de81', parameterMap={'2': 'c041f2eb94156e7e6be5b93d4db01de81'})
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c5762cc8e3fa494f344902f066a52ee89', parameterMap={'2': 'c5762cc8e3fa494f344902f066a52ee89'})
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: ca00cb202e54524eae118123421d2dca1', parameterMap={'2': 'ca00cb202e54524eae118123421d2dca1'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: ca00cb202e54524eae118123421d2dca1', parameterMap={'2': 'ca00cb202e54524eae118123421d2dca1'})
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] TalkException(code=5, reason='Ticket not found: uVDZPpUFVz', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] local variable 'to' referenced before assignment
+[<module 'time' (built-in)>] local variable 'to' referenced before assignment
+[<module 'time' (built-in)>] TalkException(code=0, reason='can not send to myself', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='can not send to myself', parameterMap=None)
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] TalkException(code=5, reason='Ticket not found: MHL_iMdvph', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: ca00cb202e54524eae118123421d2dca1', parameterMap={'2': 'ca00cb202e54524eae118123421d2dca1'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c041f2eb94156e7e6be5b93d4db01de81', parameterMap={'2': 'c041f2eb94156e7e6be5b93d4db01de81'})
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c041f2eb94156e7e6be5b93d4db01de81', parameterMap={'2': 'c041f2eb94156e7e6be5b93d4db01de81'})
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] unsupported operand type(s) for +=: 'NoneType' and 'str'
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] encoding without a string argument
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c5762cc8e3fa494f344902f066a52ee89', parameterMap={'2': 'c5762cc8e3fa494f344902f066a52ee89'})
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c5762cc8e3fa494f344902f066a52ee89', parameterMap={'2': 'c5762cc8e3fa494f344902f066a52ee89'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: ca00cb202e54524eae118123421d2dca1', parameterMap={'2': 'ca00cb202e54524eae118123421d2dca1'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: ca00cb202e54524eae118123421d2dca1', parameterMap={'2': 'ca00cb202e54524eae118123421d2dca1'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: ca00cb202e54524eae118123421d2dca1', parameterMap={'2': 'ca00cb202e54524eae118123421d2dca1'})
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: ca00cb202e54524eae118123421d2dca1', parameterMap={'2': 'ca00cb202e54524eae118123421d2dca1'})
+[<module 'time' (built-in)>] name 'sendMentio' is not defined
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not a member of group: c041f2eb94156e7e6be5b93d4db01de81', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not a member of group: c041f2eb94156e7e6be5b93d4db01de81', parameterMap=None)
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c041f2eb94156e7e6be5b93d4db01de81', parameterMap={'2': 'c041f2eb94156e7e6be5b93d4db01de81'})
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+
+
+[Jumat, 24 - 01 - 2020 | 18:38:32] name 'settings' is not defined
+[Jumat, 24 - 01 - 2020 | 18:38:32] name 'settings' is not defined
+[Jumat, 24 - 01 - 2020 | 18:39:24] name 'settings' is not defined
+[Jumat, 24 - 01 - 2020 | 18:39:24] name 'settings' is not defined
+[Jumat, 24 - 01 - 2020 | 18:43:34] name 'settings' is not defined
+[Jumat, 24 - 01 - 2020 | 18:43:34] name 'settings' is not defined
+[Jumat, 24 - 01 - 2020 | 18:48:01] name 'settings' is not defined
+[Jumat, 24 - 01 - 2020 | 18:48:01] name 'settings' is not defined
+[Jumat, 24 - 01 - 2020 | 18:48:30] name 'settings' is not defined
+[Jumat, 24 - 01 - 2020 | 18:48:30] name 'settings' is not defined
+[Jumat, 24 - 01 - 2020 | 18:49:06] name 'settings' is not defined
+[Jumat, 24 - 01 - 2020 | 18:49:06] name 'settings' is not defined
+[Jumat, 24 - 01 - 2020 | 18:52:41] name 'settings' is not defined
+[Jumat, 24 - 01 - 2020 | 18:52:41] name 'settings' is not defined
+[Jumat, 24 - 01 - 2020 | 18:56:35] name 'settings' is not defined
+[Jumat, 24 - 01 - 2020 | 18:56:59] name 'settings' is not defined
+[Jumat, 24 - 01 - 2020 | 18:56:59] name 'settings' is not defined
+[Jumat, 24 - 01 - 2020 | 18:56:59] name 'settings' is not defined
+[Jumat, 24 - 01 - 2020 | 18:56:59] name 'settings' is not defined
+[Jumat, 24 - 01 - 2020 | 18:56:59] name 'settings' is not defined
+[Jumat, 24 - 01 - 2020 | 18:56:59] name 'settings' is not defined
+[Jumat, 24 - 01 - 2020 | 18:56:59] name 'settings' is not defined
+[Jumat, 24 - 01 - 2020 | 18:57:05] name 'settings' is not defined
+[Jumat, 24 - 01 - 2020 | 18:57:06] name 'settings' is not defined
+[Jumat, 24 - 01 - 2020 | 18:57:06] name 'settings' is not defined
+[Jumat, 24 - 01 - 2020 | 18:57:06] name 'settings' is not defined
+[Jumat, 24 - 01 - 2020 | 18:57:06] name 'settings' is not defined
+[Jumat, 24 - 01 - 2020 | 18:57:06] name 'settings' is not defined
+[Jumat, 24 - 01 - 2020 | 18:57:06] name 'settings' is not defined
+[Jumat, 24 - 01 - 2020 | 18:57:06] name 'settings' is not defined
+[Jumat, 24 - 01 - 2020 | 18:57:07] name 'settings' is not defined
+[Jumat, 24 - 01 - 2020 | 18:57:21] name 'settings' is not defined
+[Jumat, 24 - 01 - 2020 | 19:02:20] encoding without a string argument
+[Jumat, 24 - 01 - 2020 | 19:02:20] 
+[Jumat, 24 - 01 - 2020 | 19:02:47] 
+[Jumat, 24 - 01 - 2020 | 19:02:47] 
+[Jumat, 24 - 01 - 2020 | 19:02:48] 
+[Jumat, 24 - 01 - 2020 | 19:02:48] 
+[Jumat, 24 - 01 - 2020 | 19:03:00] 
+[Jumat, 24 - 01 - 2020 | 19:03:00] 
+[Jumat, 24 - 01 - 2020 | 19:03:00] 
+[Jumat, 24 - 01 - 2020 | 19:03:00] 
+[Jumat, 24 - 01 - 2020 | 19:03:00] 
+[Jumat, 24 - 01 - 2020 | 19:03:03] 
+[Jumat, 24 - 01 - 2020 | 19:03:03] 
+[Jumat, 24 - 01 - 2020 | 19:03:03] 
+[Jumat, 24 - 01 - 2020 | 19:03:03] 
+[Jumat, 24 - 01 - 2020 | 19:03:03] 
+[Jumat, 24 - 01 - 2020 | 19:03:20] 
+[Jumat, 24 - 01 - 2020 | 19:03:20] 
+[Jumat, 24 - 01 - 2020 | 19:06:25] 'bool' object has no attribute 'title'
+[Jumat, 24 - 01 - 2020 | 19:21:11] 'bool' object has no attribute 'title'
+[Jumat, 24 - 01 - 2020 | 19:21:22] 'bool' object has no attribute 'title'
+[Jumat, 24 - 01 - 2020 | 19:23:42] 'bool' object has no attribute 'title'
+[Jumat, 24 - 01 - 2020 | 19:24:57] name 'execute_js' is not defined
+[Jumat, 24 - 01 - 2020 | 19:25:34] 'bool' object has no attribute 'title'
+[Jumat, 24 - 01 - 2020 | 19:28:46] 'bool' object has no attribute 'title'
+[Jumat, 24 - 01 - 2020 | 19:28:46] 'bool' object has no attribute 'title'
+[Jumat, 24 - 01 - 2020 | 19:28:46] 'bool' object has no attribute 'title'
+[Jumat, 24 - 01 - 2020 | 19:28:46] 'bool' object has no attribute 'title'
+[Jumat, 24 - 01 - 2020 | 19:36:10] 'bool' object has no attribute 'title'
+[Jumat, 24 - 01 - 2020 | 19:36:18] 'bool' object has no attribute 'title'
+[Jumat, 24 - 01 - 2020 | 19:46:23] 'bool' object has no attribute 'title'
+[Jumat, 24 - 01 - 2020 | 19:46:23] 'bool' object has no attribute 'title'
+[Jumat, 24 - 01 - 2020 | 19:46:23] 'bool' object has no attribute 'title'
+[Jumat, 24 - 01 - 2020 | 19:46:23] 'bool' object has no attribute 'title'
+[Jumat, 24 - 01 - 2020 | 19:47:20] 'bool' object has no attribute 'title'
+[Jumat, 24 - 01 - 2020 | 19:49:38] 'bool' object has no attribute 'title'
+[Jumat, 24 - 01 - 2020 | 20:18:45] 'bool' object has no attribute 'title'
+[Jumat, 24 - 01 - 2020 | 20:18:54] 'bool' object has no attribute 'title'
+[Jumat, 24 - 01 - 2020 | 20:20:52] name 'execute_js' is not defined
+[Jumat, 24 - 01 - 2020 | 20:21:07] 'bool' object has no attribute 'title'
+[Jumat, 24 - 01 - 2020 | 20:21:07] 'bool' object has no attribute 'title'
+[Jumat, 24 - 01 - 2020 | 21:06:40] 'bool' object has no attribute 'title'
+[Jumat, 24 - 01 - 2020 | 21:06:56] 'bool' object has no attribute 'title'
+[Jumat, 24 - 01 - 2020 | 21:08:47] 'bool' object has no attribute 'title'
+[Jumat, 24 - 01 - 2020 | 21:08:47] 'bool' object has no attribute 'title'
+[Jumat, 24 - 01 - 2020 | 21:08:47] 'bool' object has no attribute 'title'
+[Jumat, 24 - 01 - 2020 | 21:08:47] 'bool' object has no attribute 'title'
+[Jumat, 24 - 01 - 2020 | 21:08:47] 'bool' object has no attribute 'title'
+[Jumat, 24 - 01 - 2020 | 21:08:47] 'bool' object has no attribute 'title'
+[Jumat, 24 - 01 - 2020 | 21:08:47] 'bool' object has no attribute 'title'
+[Jumat, 24 - 01 - 2020 | 21:09:04] 'bool' object has no attribute 'title'
+[Jumat, 24 - 01 - 2020 | 21:09:45] name 'execute_js' is not defined

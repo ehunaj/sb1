@@ -888,32 +888,27 @@ def clBot(op):
                     with open('bl.json', 'w') as fp:
                         json.dump(bl, fp, sort_keys=True, indent=4)
                     try:
-                        kk.kickoutFromGroup(op.param1,[op.param2])
-                        kc.inviteIntoGroup(op.param1,[op.param3])
-                        ki.acceptGrouoInvitation(op.param1)
+                        k2.kickoutFromGroup(op.param1,[op.param2])
+                        k3.findAndAddContactsByMid(op.param3)
+                        k3.inviteIntoGroup(op.param1, hun["botteam"])
                     except:
-                        try:
-                            kc.kickoutFromGroup(op.param1,[op.param2])
-                            k1.inviteIntoGroup(op.param1,[op.param3])
-                            ki.acceptGrouoInvitation(op.param1)
-                        except:
-                            try:
-                                G = k2.getGroup(op.param1)
-                                k1.kickoutFromGroup(op.param1,[op.param2])
-                                G.preventedJoinByTicket = False
-                                k2.updateGroup(G)
-                                Ti = k2.reissueGroupTicket(op.param1)
-                                cl.acceptGroupInvitationByTicket(op.param1,Ti)
-                                ki.acceptGroupInvitationByTicket(op.param1,Ti)
-                                kk.acceptGroupInvitationByTicket(op.param1,Ti)
-                                kc.acceptGroupInvitationByTicket(op.param1,Ti)
-                                k1.acceptGroupInvitationByTicket(op.param1,Ti)
-                                k2.acceptGroupInvitationByTicket(op.param1,Ti)
-                                k3.acceptGroupInvitationByTicket(op.param1,Ti)
-                                G.preventedJoinByTicket = True
-                                k2.updateGroup(G)
-                            except:
-                                pass
+                        pass
+
+                    G = k3.getGroup(op.param1)
+                    G.preventedJoinByTicket = False
+                    k3.updateGroup(G)
+                    Ti = k3.reissueGroupTicket(op.param1)
+                    cl.acceptGroupInvitationByTicket(op.param1,Ti)
+                    ki.acceptGroupInvitationByTicket(op.param1,Ti)
+                    kk.acceptGroupInvitationByTicket(op.param1,Ti)
+                    kc.acceptGroupInvitationByTicket(op.param1,Ti)
+                    k1.acceptGroupInvitationByTicket(op.param1,Ti)
+                    k2.acceptGroupInvitationByTicket(op.param1,Ti)
+                    k3.acceptGroupInvitationByTicket(op.param1,Ti)
+                    G.preventedJoinByTicket = True
+                    k3.updateGroup(G)
+                    except:
+                        pass
 
         if op.type == 19:
             if op.param3 in hun["botteam"]:
@@ -927,32 +922,27 @@ def clBot(op):
                     with open('bl.json', 'w') as fp:
                         json.dump(bl, fp, sort_keys=True, indent=4)
                     try:
-                        kc.kickoutFromGroup(op.param1,[op.param2])
-                        k1.inviteIntoGroup(op.param1,[op.param3])
-                        kk.acceptGrouoInvitation(op.param1)
+                        k3.kickoutFromGroup(op.param1,[op.param2])
+                        ki.findAndAddContactsByMid(op.param3)
+                        ki.inviteIntoGroup(op.param1, 
                     except:
-                        try:
-                            k1.kickoutFromGroup(op.param1,[op.param2])
-                            k2.inviteIntoGroup(op.param1,[op.param3])
-                            kk.acceptGrouoInvitation(op.param1)
-                        except:
-                            try:
-                                G = k3.getGroup(op.param1)
-                                k2.kickoutFromGroup(op.param1,[op.param2])
-                                G.preventedJoinByTicket = False
-                                k3.updateGroup(G)
-                                Ti = k3.reissueGroupTicket(op.param1)
-                                cl.acceptGroupInvitationByTicket(op.param1,Ti)
-                                ki.acceptGroupInvitationByTicket(op.param1,Ti)
-                                kk.acceptGroupInvitationByTicket(op.param1,Ti)
-                                kc.acceptGroupInvitationByTicket(op.param1,Ti)
-                                k1.acceptGroupInvitationByTicket(op.param1,Ti)
-                                k2.acceptGroupInvitationByTicket(op.param1,Ti)
-                                k3.acceptGroupInvitationByTicket(op.param1,Ti)
-                                G.preventedJoinByTicket = True
-                                k3.updateGroup(G)
-                            except:
-                                pass
+                        pass
+
+                    G = ki.getGroup(op.param1)
+                    G.preventedJoinByTicket = False
+                    ki.updateGroup(G)
+                    Ti = ki.reissueGroupTicket(op.param1)
+                    cl.acceptGroupInvitationByTicket(op.param1,Ti)
+                    ki.acceptGroupInvitationByTicket(op.param1,Ti)
+                    kk.acceptGroupInvitationByTicket(op.param1,Ti)
+                    kc.acceptGroupInvitationByTicket(op.param1,Ti)
+                    k1.acceptGroupInvitationByTicket(op.param1,Ti)
+                    k2.acceptGroupInvitationByTicket(op.param1,Ti)
+                    k3.acceptGroupInvitationByTicket(op.param1,Ti)
+                    G.preventedJoinByTicket = True
+                    ki.updateGroup(G)
+                    except:
+                        pass
 
         if op.type == 19:
             if op.param3 in hun["botteam"]:
@@ -961,37 +951,32 @@ def clBot(op):
                 if op.param2 in hun["botteam"]:
                     pass
                 else:
-                    #sendMention(op.param1, op.param2, "", " \nJangan main kick boss")
+                    sendMention(op.param1, op.param2, "", " \nJangan main kick boss")
                     bl['blacklist'][op.param2] = True
                     with open('bl.json', 'w') as fp:
                         json.dump(bl, fp, sort_keys=True, indent=4)
                     try:
-                        k1.kickoutFromGroup(op.param1,[op.param2])
-                        k2.inviteIntoGroup(op.param1,[op.param3])
-                        kc.acceptGrouoInvitation(op.param1)
+                        ki.kickoutFromGroup(op.param1,[op.param2])
+                        kk.findAndAddContactsByMid(op.param3)
+                        kk.inviteIntoGroup(op.param1,[op.param3
                     except:
-                        try:
-                            k2.kickoutFromGroup(op.param1,[op.param2])
-                            k3.inviteIntoGroup(op.param1,[op.param3])
-                            kc.acceptGrouoInvitation(op.param1)
-                        except:
-                            try:
-                                G = ki.getGroup(op.param1)
-                                k3.kickoutFromGroup(op.param1,[op.param2])
-                                G.preventedJoinByTicket = False
-                                ki.updateGroup(G)
-                                Ti = ki.reissueGroupTicket(op.param1)
-                                cl.acceptGroupInvitationByTicket(op.param1,Ti)
-                                ki.acceptGroupInvitationByTicket(op.param1,Ti)
-                                kk.acceptGroupInvitationByTicket(op.param1,Ti)
-                                kc.acceptGroupInvitationByTicket(op.param1,Ti)
-                                k1.acceptGroupInvitationByTicket(op.param1,Ti)
-                                k2.acceptGroupInvitationByTicket(op.param1,Ti)
-                                k3.acceptGroupInvitationByTicket(op.param1,Ti)
-                                G.preventedJoinByTicket = True
-                                ki.updateGroup(G)
-                            except:
-                                pass
+                        pass
+
+                    G = kk.getGroup(op.param1)
+                    G.preventedJoinByTicket = False
+                    kk.updateGroup(G)
+                    Ti = kk.reissueGroupTicket(op.param1)
+                    cl.acceptGroupInvitationByTicket(op.param1,Ti)
+                    ki.acceptGroupInvitationByTicket(op.param1,Ti)
+                    kk.acceptGroupInvitationByTicket(op.param1,Ti)
+                    kc.acceptGroupInvitationByTicket(op.param1,Ti)
+                    k1.acceptGroupInvitationByTicket(op.param1,Ti)
+                    k2.acceptGroupInvitationByTicket(op.param1,Ti)
+                    k3.acceptGroupInvitationByTicket(op.param1,Ti)
+                    G.preventedJoinByTicket = True
+                    kk.updateGroup(G)
+                    except:
+                        pass
 #==================-=-----=-=-------------
         if op.type == 19:
             if op.param3 in hun["botteam"]:
@@ -1005,32 +990,27 @@ def clBot(op):
                     with open('bl.json', 'w') as fp:
                         json.dump(bl, fp, sort_keys=True, indent=4)
                     try:
-                        k2.kickoutFromGroup(op.param1,[op.param2])
-                        k3.inviteIntoGroup(op.param1,[op.param3])
-                        k1.acceptGrouoInvitation(op.param1)
+                        kk.kickoutFromGroup(op.param1,[op.param2])
+                        kc.findAndAddContactsByMid(op.param3)
+                        kc.inviteIntoGroup(op.param1, hun["botteam"]:
                     except:
-                        try:
-                            k3.kickoutFromGroup(op.param1,[op.param2])
-                            ki.inviteIntoGroup(op.param1,[op.param3])
-                            k1.acceptGrouoInvitation(op.param1)
-                        except:
-                            try:
-                                G = kk.getGroup(op.param1)
-                                ki.kickoutFromGroup(op.param1,[op.param2])
-                                G.preventedJoinByTicket = False
-                                kk.updateGroup(G)
-                                Ti = kk.reissueGroupTicket(op.param1)
-                                cl.acceptGroupInvitationByTicket(op.param1,Ti)
-                                ki.acceptGroupInvitationByTicket(op.param1,Ti)
-                                kk.acceptGroupInvitationByTicket(op.param1,Ti)
-                                kc.acceptGroupInvitationByTicket(op.param1,Ti)
-                                k1.acceptGroupInvitationByTicket(op.param1,Ti)
-                                k2.acceptGroupInvitationByTicket(op.param1,Ti)
-                                k3.acceptGroupInvitationByTicket(op.param1,Ti)
-                                G.preventedJoinByTicket = True
-                                kk.updateGroup(G)
-                            except:
-                                pass
+                        pass
+
+                    G = kc.getGroup(op.param1)
+                    G.preventedJoinByTicket = False
+                    kc.updateGroup(G)
+                    Ti = kc.reissueGroupTicket(op.param1)
+                    cl.acceptGroupInvitationByTicket(op.param1,Ti)
+                    ki.acceptGroupInvitationByTicket(op.param1,Ti)
+                    kk.acceptGroupInvitationByTicket(op.param1,Ti)
+                    kc.acceptGroupInvitationByTicket(op.param1,Ti)
+                    k1.acceptGroupInvitationByTicket(op.param1,Ti)
+                    k2.acceptGroupInvitationByTicket(op.param1,Ti)
+                    k3.acceptGroupInvitationByTicket(op.param1,Ti)
+                    G.preventedJoinByTicket = True
+                    kc.updateGroup(G)
+                    except:
+                        pass
 
         if op.type == 19:
             if op.param3 in hun["botteam"]:
@@ -1044,32 +1024,27 @@ def clBot(op):
                     with open('bl.json', 'w') as fp:
                         json.dump(bl, fp, sort_keys=True, indent=4)
                     try:
-                        k3.kickoutFromGroup(op.param1,[op.param2])
-                        ki.inviteIntoGroup(op.param1,[op.param3])
-                        k2.acceptGrouoInvitation(op.param1)
+                        kc.kickoutFromGroup(op.param1,[op.param2])
+                        k1.findAndAddContactsByMid(op.param3)
+                        k1.inviteIntoGroup(op.param1,[op.param3]
                     except:
-                        try:
-                            ki.kickoutFromGroup(op.param1,[op.param2])
-                            kk.inviteIntoGroup(op.param1,[op.param3])
-                            k3.acceptGrouoInvitation(op.param1)
-                        except:
-                            try:
-                                G = kc.getGroup(op.param1)
-                                kk.kickoutFromGroup(op.param1,[op.param2])
-                                G.preventedJoinByTicket = False
-                                kc.updateGroup(G)
-                                Ti = kc.reissueGroupTicket(op.param1)
-                                cl.acceptGroupInvitationByTicket(op.param1,Ti)
-                                ki.acceptGroupInvitationByTicket(op.param1,Ti)
-                                kk.acceptGroupInvitationByTicket(op.param1,Ti)
-                                kc.acceptGroupInvitationByTicket(op.param1,Ti)
-                                k1.acceptGroupInvitationByTicket(op.param1,Ti)
-                                k2.acceptGroupInvitationByTicket(op.param1,Ti)
-                                k3.acceptGroupInvitationByTicket(op.param1,Ti)
-                                G.preventedJoinByTicket = True
-                                kc.updateGroup(G)
-                            except:
-                                pass
+                        pass
+
+                    G = k1.getGroup(op.param1)
+                    G.preventedJoinByTicket = False
+                    k1.updateGroup(G)
+                    Ti = k1.reissueGroupTicket(op.param1)
+                    cl.acceptGroupInvitationByTicket(op.param1,Ti)
+                    ki.acceptGroupInvitationByTicket(op.param1,Ti)
+                    kk.acceptGroupInvitationByTicket(op.param1,Ti)
+                    kc.acceptGroupInvitationByTicket(op.param1,Ti)
+                    k1.acceptGroupInvitationByTicket(op.param1,Ti)
+                    k2.acceptGroupInvitationByTicket(op.param1,Ti)
+                    k3.acceptGroupInvitationByTicket(op.param1,Ti)
+                    G.preventedJoinByTicket = True
+                    k1.updateGroup(G)
+                    except:
+                        pass
 
         if op.type == 19:
             if op.param3 in hun["botteam"]:
@@ -1083,32 +1058,27 @@ def clBot(op):
                     with open('bl.json', 'w') as fp:
                         json.dump(bl, fp, sort_keys=True, indent=4)
                     try:
-                        ki.kickoutFromGroup(op.param1,[op.param2])
-                        kk.inviteIntoGroup(op.param1,[op.param3])
-                        k3.acceptGrouoInvitation(op.param1)
+                        k1.kickoutFromGroup(op.param1,[op.param2])
+                        k2.findAndAddContactsByMid(op.param3)
+                        k2.inviteIntoGroup(op.param1,[op.param3])
                     except:
-                        try:
-                            kk.kickoutFromGroup(op.param1,[op.param2])
-                            kc.inviteIntoGroup(op.param1,[op.param3])
-                            k3.acceptGrouoInvitation(op.param1)
-                        except:
-                            try:
-                                G = k1.getGroup(op.param1)
-                                kc.kickoutFromGroup(op.param1,[op.param2])
-                                G.preventedJoinByTicket = False
-                                k1.updateGroup(G)
-                                Ti = k1.reissueGroupTicket(op.param1)
-                                cl.acceptGroupInvitationByTicket(op.param1,Ti)
-                                ki.acceptGroupInvitationByTicket(op.param1,Ti)
-                                kk.acceptGroupInvitationByTicket(op.param1,Ti)
-                                kc.acceptGroupInvitationByTicket(op.param1,Ti)
-                                k1.acceptGroupInvitationByTicket(op.param1,Ti)
-                                k2.acceptGroupInvitationByTicket(op.param1,Ti)
-                                k3.acceptGroupInvitationByTicket(op.param1,Ti)
-                                G.preventedJoinByTicket = True
-                                k1.updateGroup(G)
-                            except:
-                                pass
+                        pass
+
+                    G = k2.getGroup(op.param1)
+                    G.preventedJoinByTicket = False
+                    k2.updateGroup(G)
+                    Ti = k2.reissueGroupTicket(op.param1)
+                    cl.acceptGroupInvitationByTicket(op.param1,Ti)
+                    ki.acceptGroupInvitationByTicket(op.param1,Ti)
+                    kk.acceptGroupInvitationByTicket(op.param1,Ti)
+                    kc.acceptGroupInvitationByTicket(op.param1,Ti)
+                    k1.acceptGroupInvitationByTicket(op.param1,Ti)
+                    k2.acceptGroupInvitationByTicket(op.param1,Ti)
+                    k3.acceptGroupInvitationByTicket(op.param1,Ti)
+                    G.preventedJoinByTicket = True
+                    k2.updateGroup(G)
+                    except:
+                        pass
 
 
         if op.type == 24:

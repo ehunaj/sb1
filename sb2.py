@@ -982,7 +982,7 @@ def clBot(op):
                 if op.param2 in hun["botteam"]:
                     pass
                 else:
-                    sendMention(op.param1, op.pa>
+                    sendMention(op.param1, op.param2, "", " \nJangan main kick boss")
                     bl['blacklist'][op.param2] = True
                     with open('bl.json', 'w') as fp:
                         json.dump(bl, fp, sort_keys=True, indent=4)
@@ -1015,7 +1015,7 @@ def clBot(op):
                 if op.param2 in hun["botteam"]:
                     pass
                 else:
-                    sendMention(op.param1, op.pa>
+                    sendMention(op.param1, op.param2, "", " \nJangan main kick boss")
                     bl['blacklist'][op.param2] = True
                     with open('bl.json', 'w') as fp:
                         json.dump(bl, fp, sort_keys=True, indent=4)
@@ -1048,7 +1048,7 @@ def clBot(op):
                 if op.param2 in hun["botteam"]:
                     pass
                 else:
-                    sendMention(op.param1, op.pa>
+                    sendMention(op.param1, op.param2, "", " \nJangan main kick boss")
                     bl['blacklist'][op.param2] = True
                     with open('bl.json', 'w') as fp:
                         json.dump(bl, fp, sort_keys=True, indent=4)
